@@ -11,3 +11,5 @@ def attendance_report():
 
 mark_attendance("Ayush", "Present")
 attendance_report()
+
+print("Student Attendance System Updated")
